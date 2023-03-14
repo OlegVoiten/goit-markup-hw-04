@@ -223,6 +223,7 @@ body {
   margin-bottom: 8px;
   padding: 24px 0;
   background-color: var(--lightmode);
+  border-radius: 4px;
 }
 
 /* --------Tehnologiies-------- */
